@@ -1,6 +1,6 @@
 # Hi there, I'm [Mukhtar MohamadAhmmed Mukhtar] 👋
 
-![Visitor Count](https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/)
+![My Profile Picture](https://github.com/MukhtarMK/Main/blob/master/WhatsApp%20Image%202024-07-05%20at%2010.34.33%20PM.jpeg)
 
 ## About Me
 
