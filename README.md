@@ -6,7 +6,7 @@
 
 I'm a passionate software developer with a love for building impactful projects and solving complex problems. I enjoy learning new technologies and improving my skills in various areas of software development.
 
-- 🔭 I’m currently working on **[Helpdesk](Link to Project)**
+- 🔭 I’m currently working on **[Helpdesk],[Customer Service System App],[Warehouse management system ]**
 - 🌱 I’m currently learning **[Technology/Languages]**
 
 - 💬 Ask me about **[Full Stack Software Developer]**
