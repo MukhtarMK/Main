@@ -56,6 +56,6 @@ improve Customer Service System Apps to meet the evolving needs of businesses an
 
 ## Personal Interests
 
-Outside of coding, I enjoy [Your Hobbies/Interests].
+Outside of coding, I enjoy [I love traveling and exploring new cultures. I've  plan to visit many more! Additionally, I enjoy playing the guitar and composing music in my free time.].
 
 Thank you for visiting my profile!
