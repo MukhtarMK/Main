@@ -20,7 +20,7 @@ budget]**
 - **Languages:** [C#,VB]
 - **Frameworks and Libraries:** [Backend:** C#, Asp.net, Asp.net Core, MVC ,.netMaui ,XamarinForm]
 - **Tools and Platforms:** [**Version Control:** Git, GitHub  **Project Management:** Jira, Trello]
-- **Other Skills:** [Devexpress Report ,Sqlserver , Oracl]
+- **Other Skills:** [Devexpress Report ,Sqlserver , Oracl]  - **Problem Solving:** Algorithm Design, Data Structures, System Design
 
 ## Projects
 
