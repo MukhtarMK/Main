@@ -1,6 +1,6 @@
 # Hi there, I'm [Mukhtar MohamadAhmmed Mukhtar] 👋
 
-![My Profile Picture](https://github.com/MukhtarMK/Main/blob/master/WhatsApp%20Image%202024-07-15%20at%201.23.33%20PM.jpeg)
+![My Profile Picture](https://github.com/MukhtarMK/Main/blob/master/5852460534069316099.jpg)
 
 ## About Me
 
